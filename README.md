@@ -15,7 +15,7 @@ Profesional financiero especializado en control, análisis de datos y mejora de 
 
 #### Ahora mismo
 
-`Controller Financiero certificado` · `BIDA (CFI) en curso` · `Inglés B2 ` · `Power BI` · `SQL / Python `
+`Controller Financiero certificado` · `BIDA (CFI) en curso` · `Inglés profesional ` · `Power BI` · `SQL / Python en desarollo `
 
 ---
 
