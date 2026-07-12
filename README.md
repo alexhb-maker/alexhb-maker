@@ -1,6 +1,6 @@
 ### Alex Hernández Barbosa — Finanzas · Datos · Comportamiento
 
-Un perfil atípico donde el mercado suele buscar perfiles lineales — y precisamente por eso, uno necesario: la función financiera de hoy no necesita solo a alguien que sepa contabilidad, necesita a alguien que entienda el dato, el proceso y la persona que toma la decisión detrás del número.
+Profesional financiero especializado en control, análisis de datos y mejora de procesos. Combino experiencia real en contabilidad y control financiero con formación en análisis de datos, programación y comportamiento humano.
 
 ---
 
