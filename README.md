@@ -1,5 +1,4 @@
-[README_3.md](https://github.com/user-attachments/files/29944801/README_3.md)
-### Alex Hernández — Finanzas · Datos · Comportamiento
+### Alex Hernández Barbosa — Finanzas · Datos · Comportamiento
 
 Un perfil atípico donde el mercado suele buscar perfiles lineales — y precisamente por eso, uno necesario: la función financiera de hoy no necesita solo a alguien que sepa contabilidad, necesita a alguien que entienda el dato, el proceso y la persona que toma la decisión detrás del número.
 
