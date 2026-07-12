@@ -15,7 +15,16 @@ Profesional financiero especializado en control, análisis de datos y mejora de 
 
 #### Ahora mismo
 
-`Controller Financiero certificado` · `BIDA (CFI) en curso` · `Inglés profesional ` · `Power BI` · `SQL / Python en desarollo `
+
+Finanzas:
+Controller Financiero | Contabilidad | Reporting | Cierre Contable
+
+Datos:
+Power BI | Python | Modelado de Datos | SQL (en formación)
+
+Negocio:
+Análisis de procesos | Gestión del riesgo | Psicología aplicada a la toma de decisiones
+
 
 ---
 
