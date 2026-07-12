@@ -15,7 +15,7 @@ Un perfil atípico donde el mercado suele buscar perfiles lineales — y precisa
 
 #### Ahora mismo
 
-`Controller Financiero certificado` · `BIDA (CFI) en curso` · `Inglés B2 en preparación` · `Power BI` · `SQL / Python en desarrollo`
+`Controller Financiero certificado` · `BIDA (CFI) en curso` · `Inglés B2 ` · `Power BI` · `SQL / Python `
 
 ---
 
