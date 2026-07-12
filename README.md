@@ -30,15 +30,6 @@ Idiomas:
 
 ---
 
-#### Experiencia
-
-- **Asesor contable en activo**
-- **Cartera propia de clientes pyme**
-- **7 años operando mercados financieros**
-- **5 años como trader certificado por FTMO**
-
----
-
 #### Proyecto destacado
 
 **[XAU Swing Trading Lab](https://github.com/alexhb-maker/XAU-swing-trading-lab)** — auditoría cuantitativa de mi propio proceso de decisión en trading discrecional: indicador propio en Pine Script v6, registro estructurado de 17 operaciones con evidencia visual, análisis estadístico en Python (pandas/matplotlib) y un set de reglas v2 derivado directamente de los hallazgos — incluyendo una regla de "circuit breaker" sobre la mayor fuente real de pérdidas: la toma de decisiones tras una pérdida, no el análisis previo. Todo el pipeline es reproducible desde el dataset original.
