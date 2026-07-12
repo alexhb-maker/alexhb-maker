@@ -1,6 +1,6 @@
 ### Alex Hernández Barbosa — Finanzas · Datos · Comportamiento
 
-Profesional financiero especializado en control, análisis de datos y mejora de procesos. Combino experiencia real en contabilidad y control financiero con formación en análisis de datos, programación y comportamiento humano.
+Perfil atípico: profesional financiero especializado en control, análisis de datos y mejora de procesos. Combino experiencia real en contabilidad y control financiero con formación en análisis de datos, programación y comportamiento humano.
 
 ---
 
@@ -24,6 +24,9 @@ Datos:
 
 Negocio:
 `Análisis de procesos` | `Gestión del riesgo` | `Prevención blanqueo de capitales` | `Psicología aplicada a la toma de decisiones`
+
+Idiomas:
+`Inglés profesional` — certificado en comunicación empresarial, Cámara de Comercio de Barcelona (desde 2018)
 
 
 ---
