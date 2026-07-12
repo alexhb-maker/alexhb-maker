@@ -17,13 +17,13 @@ Profesional financiero especializado en control, análisis de datos y mejora de 
 
 
 Finanzas:
-Controller Financiero | Contabilidad | Reporting | Cierre Contable
+`Controller Financiero` | `Contabilidad` | `Reporting` | `Cierre Contable`
 
 Datos:
-Power BI | Python | Modelado de Datos | SQL (en formación)
+`Power BI` | `Python` | `Modelado de Datos` | `SQL (en formación)`
 
 Negocio:
-Análisis de procesos | Gestión del riesgo | Psicología aplicada a la toma de decisiones
+`Análisis de procesos` | `Gestión del riesgo` | `Prevención blanqueo de capitales` | `Psicología aplicada a la toma de decisiones`
 
 
 ---
