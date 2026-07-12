@@ -28,6 +28,14 @@ Negocio:
 Idiomas:
 `Inglés profesional` — certificado en comunicación empresarial, Cámara de Comercio de Barcelona (desde 2018)
 
+---
+
+#### Experiencia
+
+- **Asesor contable en activo**
+- **Cartera propia de clientes pyme**
+- **7 años operando mercados financieros**
+- **5 años como trader certificado por FTMO**
 
 ---
 
