@@ -1,6 +1,6 @@
 ### Alex Hernández Barbosa — Finanzas · Datos · Comportamiento
 
-Perfil atípico: profesional financiero especializado en control, análisis de datos y mejora de procesos. Combino experiencia real en contabilidad y control financiero con formación en análisis de datos, programación y comportamiento humano.
+Profesional financiero especializado en control, análisis de datos y mejora de procesos. Combino experiencia real en contabilidad y control financiero con formación en análisis de datos, programación y comportamiento humano — un perfil atípico que conecta disciplinas que rara vez conviven en un mismo profesional.
 
 ---
 
